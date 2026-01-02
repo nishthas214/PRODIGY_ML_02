@@ -50,4 +50,5 @@ The K-Means algorithm (using the Elbow Method) identified **5 distinct customer 
 Special thanks to **Prodigy InfoTech** for providing this opportunity to learn and apply Machine Learning concepts.
 
 ---
-*Created by [Your Name]*
+*Created by [Nishtha S]*
+##Thank you Prodigy InfoTech
